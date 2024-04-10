@@ -1,5 +1,7 @@
 ### Hi there 👋
-# nice to meet you!
+### nice to meet you!
+### name: Lee Seohyeon
+
 <!--
 **mmerong/mmerong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
